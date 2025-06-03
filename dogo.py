@@ -16,7 +16,7 @@ def disable_security_and_firewall_windows():
         "Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False"
     )
 
-    # Ejecutar PowerShell oculto y en background para no bloquear
+
     subprocess.Popen(
         [
             "powershell.exe",
