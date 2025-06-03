@@ -3,7 +3,7 @@ Este script establece una reverse shell multiplataforma (Windows/Linux), desacti
 
 
 # Clone rep
-
+https://github.com/DogoTalei/Bypass_AV.git
 
 # Go inside
 cd Bypass_Av
